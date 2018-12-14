@@ -1,0 +1,14 @@
+D:\SqlToExcel\SqlToExcel\SqlToExcel\bin\Debug\SqlToExcel.exe.config
+D:\SqlToExcel\SqlToExcel\SqlToExcel\bin\Debug\SqlToExcel.exe
+D:\SqlToExcel\SqlToExcel\SqlToExcel\bin\Debug\SqlToExcel.pdb
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\SqlToExcel.csprojAssemblyReference.cache
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\Interop.Excel.dll
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\Interop.Office.dll
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\Interop.VBIDE.dll
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\SqlToExcel.csproj.ResolveComReference.cache
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\SqlToExcel.Form1.resources
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\SqlToExcel.Properties.Resources.resources
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\SqlToExcel.csproj.GenerateResource.cache
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\SqlToExcel.csproj.CoreCompileInputs.cache
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\SqlToExcel.exe
+D:\SqlToExcel\SqlToExcel\SqlToExcel\obj\Debug\SqlToExcel.pdb
